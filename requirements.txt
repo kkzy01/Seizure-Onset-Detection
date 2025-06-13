@@ -1,0 +1,14 @@
+git+https://github.com/ieeg-portal/ieegpy.git
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+hdf5storage
+kneed
+torch 
+torchvision 
+mne
+statsmodels
+pyedflib
+seaborn
