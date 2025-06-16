@@ -22,3 +22,4 @@
 - set those with latency > /threshold/ as miss detection, and then analyze the performance
 - hyperparameter tuning (threshold, window lengths, etc.)
 - try on longer unclipped signals
+- try other models (for example [https://github.com/USC-InfoLab/NeuroGNN])
