@@ -10,6 +10,7 @@
 
 - Use python>=3.8
 - install requirements.txt
+- change iEEG username and password path, and change file path
 - run example.ipynb for three different models
 
 
